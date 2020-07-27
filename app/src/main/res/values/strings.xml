@@ -1,12 +1,5 @@
 <resources>
-
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:statusBarColor">@color/darkGrey</item> <!-- Requires api 21 -->
-    </style>
-
+    <string name="app_name">Notes</string>
+    <string name="intent_note">intent_note</string>
+    <string name="error_intent_note">ERROR: Can\'t display note properties Close the app and try again</string>
 </resources>
