@@ -1,6 +1,6 @@
 package com.gregkluska.unittesting.di;
 
-import com.gregkluska.unittesting.NotesListActivity;
+import com.gregkluska.unittesting.ui.noteslist.NotesListActivity;
 
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;
